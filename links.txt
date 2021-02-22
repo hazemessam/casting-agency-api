@@ -1,0 +1,2 @@
+live: https://fsnd-casting-agency-api.herokuapp.com/
+git: https://git.fsnd-casting-agency-api.herokuapp.git
