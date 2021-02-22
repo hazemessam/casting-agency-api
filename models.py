@@ -8,7 +8,7 @@ from sqlalchemy import Column, Integer, String, Date, Table
 
 
 # Global Variables
-DB_URI = os.environ.get('DB_URI', 'splite:///sqlite.db')
+DB_URI = os.environ.get('DATABASE_URL', 'splite:///sqlite.db')
 
 db = SQLAlchemy()
 
